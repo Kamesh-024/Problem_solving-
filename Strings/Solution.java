@@ -1,3 +1,5 @@
+package Strings;
+
 class Solution {
     public int firstUniqChar(String s) {
         int n=s.length();
